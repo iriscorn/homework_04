@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
 
+/* 1 */
 body {
     background-color: #B4B4B4;
     background-image: url(../imgs/pink-flowers.webp);
@@ -7,34 +8,45 @@ body {
     font-weight: 400;
 }
 
+/* 10 */
 .wrapper {
     width: 89%;
     margin: 0 auto;
     background-color: #fff;
 }
 
+/* 10 */
 .header, .main, .footer {
     padding: 0 50px;
 }
 
-.header__heading, .article__heading, .article__text--specify, .nav__link:hover {
+/* 10 */
+.header__heading, .article__heading, .article__text--specify, 
+/* 20 */
+.nav__link:hover {
     color: #A11414;
 }
 
+/* 10 */
 .header__heading {
     margin-bottom: 46px;
     padding-top: 96px; 
     font-size: 2rem;
 }
 
-.header__heading--modify, .article__heading, .nav__heading, .nav__link:hover, .footer__item--modify {
+/* 10 */
+.header__heading--modify, .article__heading, .nav__heading, .footer__item--modify,
+/* 20 */
+.nav__link:hover {
     font-weight: 700;
 }
 
+/* 10 */
 .header__heading--modify, .article__text--modify {
     text-transform: uppercase;
 }
 
+/* 10 */
 .header__img-wrap {
     margin-bottom: 57px;
     padding: 14px 13px;
@@ -42,14 +54,17 @@ body {
     border-radius: 2px;
 }
 
+/* 11 */
 .header__img-wrap img{
     width: 100%;
 }
 
+/* 10 */
 .section--flx {
     display: flex;
 }
 
+/* 10 */
 .nav-wrap {
     width: 21%;
     margin: 2px 0 29px 3px;
@@ -59,38 +74,46 @@ body {
     font-family: Arial;
 }
 
+/* 10 */
 .nav__heading {
     margin-bottom: 24px;
     text-transform: uppercase;
 }
 
+/* 10 */
 .nav__link {
     color: #000;
     text-decoration: none;
 }
 
+/* 20 */
 .nav__link:hover {
     text-decoration-line: underline;
 }
 
+/* 10 */
 .article__heading {
     margin-bottom: 15px;
     font-size: 1.5rem;
 }
 
+/* 10 */
 .article__text--add {
     text-decoration-line: line-through;
 }
 
+/* 10 */
 .article__item--new {
     margin-top: 2em;
 }
 
+/* 10 */
 .article__item, .article__item--new {
     font-size: 1rem;
     text-indent: 3.5%;
 }
 
+/* 10 */
 .footer {
     display: flex;
     text-align: center;
@@ -99,6 +122,7 @@ body {
     padding: 7px 0 24px 0;
 }
 
+/* 10 */
 .footer__item {
     width: 100%;
     line-height: 1px;
