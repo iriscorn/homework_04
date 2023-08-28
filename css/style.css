@@ -91,5 +91,17 @@ body {
     text-indent: 3.5%;
 }
 
+.footer {
+    display: flex;
+    text-align: center;
+    width: 74%;
+    margin: 35px 0 18px 50px;
+    padding: 7px 0 24px 0;
+}
 
-
+.footer__item {
+    width: 100%;
+    line-height: 1px;
+    background-color: #fff;
+    background-image: url(../imgs/back.gif);
+}
