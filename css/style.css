@@ -2,6 +2,7 @@
 
 /* 1 */
 body {
+    background-attachment: fixed;
     background-color: #B4B4B4;
     background-image: url(../imgs/pink-flowers.webp);
     font-family: 'Roboto', Arial, sans-serif;
