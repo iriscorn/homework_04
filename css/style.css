@@ -11,10 +11,11 @@ body {
 
 /* 10 */
 .wrapper {
-    width: 89%;
+    width: 88%;
     margin: 0 auto;
     background-color: #fff;
-}
+    padding: 0 50px;
+  }
 
 /* 10 */
 .header, .main, .footer {
