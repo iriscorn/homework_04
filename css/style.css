@@ -14,12 +14,12 @@ body {
     width: 88%;
     margin: 0 auto;
     background-color: #fff;
-    padding: 0 50px;
+    padding: 0 4%;
   }
 
 /* 10 */
 .header, .main, .footer {
-    padding: 0 50px;
+    padding: 0 4%;
 }
 
 /* 10 */
@@ -52,7 +52,7 @@ body {
 /* 10 */
 .header__img-wrap {
     margin-bottom: 57px;
-    padding: 14px 13px;
+    padding: 14px 1%;
     border: 1px solid #000;
     border-radius: 2px;
 }
@@ -70,8 +70,8 @@ body {
 /* 10 */
 .nav__wrap {
     width: 21%;
-    margin: 2px 0 29px 3px;
-    padding: 26px 0 29px 29px;
+    margin: 2px 0 29px 0.25%;
+    padding: 26px 0 29px 2.5%;
     border-radius: 2px 15px;
     background: #D7D7D7;
     font-family: Arial;
