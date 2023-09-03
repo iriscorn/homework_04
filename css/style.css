@@ -118,17 +118,20 @@ body {
 
 /* 10 */
 .footer {
-    display: flex;
-    text-align: center;
-    width: 74%;
-    margin: 35px 0 18px 50px;
-    padding: 7px 0 24px 0;
+    width: 85%;
+    margin-top: 4px;
+    padding-bottom: 18px;
+}
+
+/* 10 */
+.footer__line {
+    background: url("../imgs/back.gif") no-repeat 0 50%;
+    background-size: 100%;
 }
 
 /* 10 */
 .footer__item {
-    width: 100%;
-    line-height: 1px;
-    background-color: #fff;
-    background-image: url(../imgs/back.gif);
+    text-align: center;
+    padding: 7px 0 6px;
+    color: #403636;
 }
