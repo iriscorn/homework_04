@@ -17,10 +17,7 @@ body {
     padding: 0 4%;
   }
 
-/* 10 */
-.header, .main, .footer {
-    padding: 0 4%;
-}
+
 
 /* 10 */
 .header__heading, .article__heading, .article__text--specify, 
